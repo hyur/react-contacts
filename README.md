@@ -26,7 +26,7 @@
 <img src="https://github.com/hyur/react-contacts/blob/master/images/add.png" width="750px" height="240px"/>
 
 - 通讯录查询界面
-<img src="https://github.com/hyur/react-contacts/blob/master/images/search.png" width="750px" height="280px"/>
+<img src="https://github.com/hyur/react-contacts/blob/master/images/search.png" width="750px" height="260px"/>
 
 
 
